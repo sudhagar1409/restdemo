@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6633" started-at="2024-01-05T20:06:39 IST" finished-at="2024-01-05T20:06:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6633" started-at="2024-01-05T20:06:39 IST" finished-at="2024-01-05T20:06:46 IST">
+      <class name="demovalidation.PostMethod">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:demovalidation.PostMethod@45820e51]" name="setUp" is-config="true" duration-ms="658" started-at="2024-01-05T20:06:39 IST" finished-at="2024-01-05T20:06:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="postTestIncident()[pri:1, instance:demovalidation.PostMethod@45820e51]" name="postTestIncident" duration-ms="5915" started-at="2024-01-05T20:06:40 IST" finished-at="2024-01-05T20:06:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTestIncident -->
+      </class> <!-- demovalidation.PostMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
